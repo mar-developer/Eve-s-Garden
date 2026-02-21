@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "lastComputedDate": "2026-02-03",
+  "dailyActivity": [
+    {
+      "date": "2025-12-08",
+      "messageCount": 823,
+      "sessionCount": 2,
+      "toolCallCount": 242
+    },
+    {
+      "date": "2025-12-09",
+      "messageCount": 5,
+      "sessionCount": 1,
+      "toolCallCount": 2
+    },
+    {
+      "date": "2025-12-11",
+      "messageCount": 61,
+      "sessionCount": 1,
+      "toolCallCount": 19
+    },
+    {
+      "date": "2025-12-16",
+      "messageCount": 254,
+      "sessionCount": 1,
+      "toolCallCount": 65
+    },
+    {
+      "date": "2025-12-17",
+      "messageCount": 182,
+      "sessionCount": 1,
+      "toolCallCount": 53
+    }
+  ],
+  "dailyModelTokens": [
+    {
+      "date": "2025-12-08",
+      "tokensByModel": {
+        "claude-sonnet-4-5-20250929": 164560
+      }
+    },
+    {
+      "date": "2025-12-09",
+      "tokensByModel": {
+        "claude-sonnet-4-5-20250929": 428
+      }
+    },
+    {
+      "date": "2025-12-11",
+      "tokensByModel": {
+        "claude-sonnet-4-5-20250929": 14644
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "tokensByModel": {
+        "claude-sonnet-4-5-20250929": 12937
+      }
+    },
+    {
+      "date": "2025-12-17",
+      "tokensByModel": {
+        "claude-sonnet-4-5-20250929": 8095
+      }
+    }
+  ],
+  "modelUsage": {
+    "claude-sonnet-4-5-20250929": {
+      "inputTokens": 16668,
+      "outputTokens": 183996,
+      "cacheReadInputTokens": 51872714,
+      "cacheCreationInputTokens": 10128763,
+      "webSearchRequests": 0,
+      "costUSD": 0,
+      "contextWindow": 0,
+      "maxOutputTokens": null
+    }
+  },
+  "totalSessions": 6,
+  "totalMessages": 1325,
+  "longestSession": {
+    "sessionId": "23bb2a5a-ac52-4000-92b7-6228f76fe31e",
+    "duration": 90941007,
+    "messageCount": 736,
+    "timestamp": "2025-12-08T09:47:54.520Z"
+  },
+  "firstSessionDate": "2025-12-08T09:20:22.692Z",
+  "hourCounts": {
+    "15": 1,
+    "17": 2,
+    "18": 1,
+    "19": 1,
+    "20": 1
+  }
+}
