@@ -106,7 +106,14 @@
       "mcp__blender__get_sketchfab_status",
       "mcp__blender__get_hunyuan3d_status",
       "mcp__blender__execute_blender_code",
-      "mcp__blender__get_object_info"
+      "mcp__blender__get_object_info",
+      "mcp__blender__search_sketchfab_models",
+      "mcp__blender__get_sketchfab_model_preview",
+      "mcp__blender__download_sketchfab_model"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "blender"
+  ],
+  "enableAllProjectMcpServers": true
 }
